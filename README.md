@@ -1,6 +1,12 @@
 Advanced Phishing Detection Suite is a browser-based cybersecurity project that analyzes suspicious emails using a custom phishing rules engine, weighted risk scoring, attack-simulation samples, 
 and optional AI-assisted threat analysis to identify modern phishing tactics such as BEC, TOAD, quishing, credential theft, and domain impersonation.
 
+![HTML5](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript)
+![Cybersecurity](https://img.shields.io/badge/Project-Cybersecurity-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Advanced-green?style=for-the-badge)
+
 # 🛡️ Advanced Phishing Detection Suite
 
 An advanced cybersecurity web project that detects and analyzes phishing emails using **20+ red-flag detection rules**, **risk scoring**, **sample attack simulations**, and **optional AI-powered threat analysis**.
